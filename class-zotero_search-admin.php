@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       authortesting.com
+ * @link       Sam.com
  * @since      1.0.0
  *
  * @package    Zotero_search
@@ -18,7 +18,7 @@
  *
  * @package    Zotero_search
  * @subpackage Zotero_search/admin
- * @author     Shebaz Multani <shebazm@itpathsolutions.co.in>
+ * @author     Sam
  */
 class Zotero_search_Admin {
 
